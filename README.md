@@ -1,11 +1,5 @@
 # 💻 E-commerce Angular Project
 
-# Tech Stack
-
-- Angular 17
-- TypeScript
-- Bootstrap 5
-- JSON Server API
 
 ## 🚀 Features
 
